@@ -8,10 +8,6 @@ import './widgets/quiet_hours_widget.dart';
 import './widgets/role_selector_widget.dart';
 import './widgets/settings_list_tile_widget.dart';
 import './widgets/settings_section_widget.dart';
-import 'widgets/quiet_hours_widget.dart';
-import 'widgets/role_selector_widget.dart';
-import 'widgets/settings_list_tile_widget.dart';
-import 'widgets/settings_section_widget.dart';
 import 'widgets/settings_toggle_widget.dart';
 
 class SettingsAndPreferences extends StatefulWidget {
